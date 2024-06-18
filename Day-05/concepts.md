@@ -30,7 +30,7 @@ Routes dictate how network traffic is directed, specifying the destination and n
 
 Route Tables are collections of routes associated with subnets, enabling custom routing rules.
 
-## Network Security Groups (NSGs)
+## Network Security Groups (NSGs)(Statefull in the nature)
 
 NSGs are fundamental for Azure's network security, allowing filtering of inbound and outbound traffic. Key aspects include:
 
